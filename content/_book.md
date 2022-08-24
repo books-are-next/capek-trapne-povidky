@@ -1,39 +1,45 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  publisherShort: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
+  title: Trapné povídky
+  identifier: 5351838e-982d-4cfb-b8bc-2c7eb85ff917
+  author: Karel Čapek
+  publisher: Městská knihovna v Praze
+  modified: '2017-11-06T00:00:00.000Z'
 readingOrder:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  - promo.html
+  - trapne_povidky_001.html
+  - trapne_povidky_002.html
+  - trapne_povidky_003.html
+  - trapne_povidky_004.html
+  - trapne_povidky_005.html
+  - trapne_povidky_006.html
+  - trapne_povidky_007.html
+  - trapne_povidky_008.html
+  - trapne_povidky_009.html
+  - trapne_povidky_010.html
+  - trapne_povidky_011.html
+  - trapne_povidky_012.html
+  - trapne_povidky_013.html
+  - trapne_povidky_014.html
+  - trapne_povidky_015.html
+  - trapne_povidky_016.html
+  - trapne_povidky_017.html
+  - trapne_povidky_018.html
+  - trapne_povidky_019.html
 tocBase:
-  - isSection: true
-    children:
-      - link: where-i-lived-and-what-i-lived-for.html
-        title: Where i lived and what i lived for
-        numberedChildren: true;
-        children:
-          - link: reading.html
-            title: Reading
-          - link: sounds.html
-            title: Sounds
-      - link: solitude.html
-        title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - assets
   - favicon.png
