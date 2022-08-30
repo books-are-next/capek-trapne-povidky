@@ -1,0 +1,360 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Trapné povídky",
+  "author": "Karel Čapek",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "capek-trapne-povidky-f641cd5",
+  "revision": "f641cd5",
+  "readingOrder": [
+    "promo.html",
+    "trapne_povidky_005.html",
+    "trapne_povidky_006.html",
+    "trapne_povidky_007.html",
+    "trapne_povidky_008.html",
+    "trapne_povidky_009.html",
+    "trapne_povidky_010.html",
+    "trapne_povidky_011.html",
+    "trapne_povidky_012.html",
+    "trapne_povidky_013.html",
+    "trapne_povidky_014.html",
+    "trapne_povidky_015.html",
+    "trapne_povidky_016.html",
+    "trapne_povidky_017.html",
+    "trapne_povidky_018.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Tue Aug 30 2022 08:10:18 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1661847018897
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "trapne_povidky_005.html",
+      "toc": []
+    },
+    {
+      "title": "Předmluva",
+      "file": "trapne_povidky_005.html",
+      "words": 141,
+      "chars": 931,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "trapne_povidky_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Předmluva",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Otcové",
+      "file": "trapne_povidky_006.html",
+      "words": 1658,
+      "chars": 9994,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 2,
+      "prev": "trapne_povidky_005.html",
+      "next": "trapne_povidky_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Otcové",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tři",
+      "file": "trapne_povidky_007.html",
+      "words": 2088,
+      "chars": 12079,
+      "ideas": 59,
+      "role": "chapter",
+      "order": 3,
+      "prev": "trapne_povidky_006.html",
+      "next": "trapne_povidky_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tři",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Helena",
+      "file": "trapne_povidky_008.html",
+      "words": 3294,
+      "chars": 19294,
+      "ideas": 54,
+      "role": "chapter",
+      "order": 4,
+      "prev": "trapne_povidky_007.html",
+      "next": "trapne_povidky_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Helena",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na zámku",
+      "file": "trapne_povidky_009.html",
+      "words": 5667,
+      "chars": 33801,
+      "ideas": 113,
+      "role": "chapter",
+      "order": 5,
+      "prev": "trapne_povidky_008.html",
+      "next": "trapne_povidky_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na zámku",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Peníze",
+      "file": "trapne_povidky_010.html",
+      "words": 4619,
+      "chars": 26886,
+      "ideas": 128,
+      "role": "chapter",
+      "order": 6,
+      "prev": "trapne_povidky_009.html",
+      "next": "trapne_povidky_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Peníze",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Surovec",
+      "file": "trapne_povidky_011.html",
+      "words": 4334,
+      "chars": 25625,
+      "ideas": 112,
+      "role": "chapter",
+      "order": 7,
+      "prev": "trapne_povidky_010.html",
+      "next": "trapne_povidky_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Surovec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Košile",
+      "file": "trapne_povidky_012.html",
+      "words": 2325,
+      "chars": 13658,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 8,
+      "prev": "trapne_povidky_011.html",
+      "next": "trapne_povidky_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Košile",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Uražený",
+      "file": "trapne_povidky_013.html",
+      "words": 3886,
+      "chars": 22156,
+      "ideas": 95,
+      "role": "chapter",
+      "order": 9,
+      "prev": "trapne_povidky_012.html",
+      "next": "trapne_povidky_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Uražený",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tribunál",
+      "file": "trapne_povidky_014.html",
+      "words": 828,
+      "chars": 5074,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 10,
+      "prev": "trapne_povidky_013.html",
+      "next": "trapne_povidky_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tribunál",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ediční poznámka",
+      "file": "trapne_povidky_015.html",
+      "words": 77,
+      "chars": 606,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 11,
+      "prev": "trapne_povidky_014.html",
+      "next": "trapne_povidky_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ediční poznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Život a doba spisovatele Karla Čapka v datech",
+      "file": "trapne_povidky_016.html",
+      "words": 293,
+      "chars": 2026,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 12,
+      "prev": "trapne_povidky_015.html",
+      "next": "trapne_povidky_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Život a doba spisovatele Karla Čapka v datech",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "První vydání knih Karla Čapka",
+      "file": "trapne_povidky_017.html",
+      "words": 233,
+      "chars": 1155,
+      "ideas": 67,
+      "role": "chapter",
+      "order": 13,
+      "prev": "trapne_povidky_016.html",
+      "next": "trapne_povidky_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "První vydání knih Karla Čapka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poznámky pod čarou",
+      "file": "trapne_povidky_018.html",
+      "words": 167,
+      "chars": 892,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 14,
+      "prev": "trapne_povidky_017.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poznámky pod čarou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 133,
+      "chars": 903,
+      "ideas": 17,
+      "role": "about",
+      "order": null,
+      "prev": "trapne_povidky_018.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 29748,
+      "chars": 175108,
+      "ideas": 789
+    },
+    "chapters": {
+      "words": 29610,
+      "chars": 174177,
+      "ideas": 769
+    }
+  }
+}
