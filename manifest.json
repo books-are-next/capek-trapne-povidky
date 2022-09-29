@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-trapne-povidky-f641cd5",
-  "revision": "f641cd5",
+  "identifier": "capek-trapne-povidky-abda8f2",
+  "revision": "abda8f2",
   "readingOrder": [
     "promo.html",
     "trapne_povidky_005.html",
@@ -28,8 +28,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Aug 30 2022 08:10:18 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1661847018897
+    "date": "Thu Sep 29 2022 21:19:38 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486378898
   },
   "documents": [
     {
@@ -128,7 +128,7 @@
       "title": "Na zámku",
       "file": "trapne_povidky_009.html",
       "words": 5667,
-      "chars": 33801,
+      "chars": 33826,
       "ideas": 113,
       "role": "chapter",
       "order": 5,
@@ -168,7 +168,7 @@
       "title": "Surovec",
       "file": "trapne_povidky_011.html",
       "words": 4334,
-      "chars": 25625,
+      "chars": 25626,
       "ideas": 112,
       "role": "chapter",
       "order": 7,
@@ -208,7 +208,7 @@
       "title": "Uražený",
       "file": "trapne_povidky_013.html",
       "words": 3886,
-      "chars": 22156,
+      "chars": 22157,
       "ideas": 95,
       "role": "chapter",
       "order": 9,
@@ -308,7 +308,7 @@
       "title": "Poznámky pod čarou",
       "file": "trapne_povidky_018.html",
       "words": 167,
-      "chars": 892,
+      "chars": 911,
       "ideas": 20,
       "role": "chapter",
       "order": 14,
@@ -348,12 +348,12 @@
   "totals": {
     "all": {
       "words": 29748,
-      "chars": 175108,
+      "chars": 175154,
       "ideas": 789
     },
     "chapters": {
       "words": 29610,
-      "chars": 174177,
+      "chars": 174223,
       "ideas": 769
     }
   }

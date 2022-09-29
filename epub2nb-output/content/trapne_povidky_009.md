@@ -19,19 +19,19 @@ Olga se hryzla do rtu. „Hrejte,“ křikla zbytečně ostře, zachytila nenáv
 
 Dveře salonu se zachvěly. To jistě starý hrabě se za nimi zase postavil, aby poslouchal. Olga ztlumila hlas: „Jedna, dvě, tři, čtyři. C D G D. Dobře, Mary!“ Dobře to sice nebylo, ale starý hrabě poslouchá. „Jedna, dvě, tři, čtyři. Teď je to dobře. Vždyť to není tak těžké, že? Jedna, dvě…“
 
-Dveře se rozlétly, a chromý hrabě vešel, lomoze svou holí. „Haha, Mary, wie gehts? Hast du schön gespielt![\[1\]](./resources/undefined) Že, slečno?“
+Dveře se rozlétly, a chromý hrabě vešel, lomoze svou holí. „Haha, Mary, wie gehts? Hast du schön gespielt![^1] Že, slečno?“
 
 „Ó ano, pane hrabě,“ přisvědčila Olga horlivě, vstávajíc od klavíru.
 
-„Mary, du hast Talent,“ volal ochromený stařec, a pojednou – bylo to skoro hrozné na pohled: padl těžce na kolena, až podlaha zaduněla, a s jakýmsi vzlykavým vytím líbal své dítě na krček hlasitými, divými polibky. „Du hast Ta-lent,“ mumlal, „du bist so gescheit, Mary, so gescheit! Sag’ mal, was soll dir dein Papa schenken?“[\[2\]](./resources/undefined)
+„Mary, du hast Talent,“ volal ochromený stařec, a pojednou – bylo to skoro hrozné na pohled: padl těžce na kolena, až podlaha zaduněla, a s jakýmsi vzlykavým vytím líbal své dítě na krček hlasitými, divými polibky. „Du hast Ta-lent,“ mumlal, „du bist so gescheit, Mary, so gescheit! Sag’ mal, was soll dir dein Papa schenken?“[^2]
 
 „Danke, nichts,“ odpovídala Mary, krčíc lechtivě ramínky pod jeho pocely. „Ich möchte nur…“
 
 „Was, was möchtest du?“ žvatlal hrabě nadšeně.
 
-„Ich möchte nur nit so viel Stunden haben,“[\[3\]](./resources/undefined) hodila Mary.
+„Ich möchte nur nit so viel Stunden haben,“[^3] hodila Mary.
 
-„Haha, natürlich,“ smál se hrabě uchvácen, „nein, wie gescheit bist du![\[4\]](./resources/undefined) Že, slečno?“
+„Haha, natürlich,“ smál se hrabě uchvácen, „nein, wie gescheit bist du![^4] Že, slečno?“
 
 „Ano,“ vydechla Olga.
 
@@ -51,7 +51,7 @@ Hrabě se narovnal, nasadil si skřipec a pohlédl na Olgu jaksi překvapen, jak
 
 Olga se uklonila a odcházela; cestou napadla ji potřeba pomsty, i obrátila se blýskajíc očima a řekla: „Mary, můžete pozdravit, když odcházím.“
 
-„Ja, mein Kind, das kannst du,“[\[5\]](./resources/undefined) přisvědčil starý hrabě blahovolně. Mary se ušklíbla a střihla bleskurychlou poklonku.
+„Ja, mein Kind, das kannst du,“[^5] přisvědčil starý hrabě blahovolně. Mary se ušklíbla a střihla bleskurychlou poklonku.
 
 Sotva byla Olga za dveřmi, přitiskla si ruce na čelo. Och bože, nevydržím to, nevydržím! Och bože, za těch pět měsíců nebylo dne a není hodiny, aby mne netrápili…
 
@@ -72,9 +72,9 @@ Vyšla před zámek, oslněna sluncem; dláždění před chvílí zkropené se 
 
 Hrdlo se jí užuž chvělo potřebou pláče, když otevírala dveře svého pokoje. Tu stanula v úžase, stěží chápajíc, co se děje; prostřed pokoje seděla na židli paní hraběnka a komorná před ní přehrabávala její, Olžinu, šatní skříň…
 
-„Ah, c’est vous,“[\[6\]](./resources/undefined) přivítala ji, aniž se ohlédla, paní hraběnka.
+„Ah, c’est vous,“[^6] přivítala ji, aniž se ohlédla, paní hraběnka.
 
-„Oui, madame la comtesse,“[\[7\]](./resources/undefined) dostala Olga ze sebe, sotva dýchajíc, s očima vytřeštěnýma.
+„Oui, madame la comtesse,“[^7] dostala Olga ze sebe, sotva dýchajíc, s očima vytřeštěnýma.
 
 Komorná vyndala celou náruč šatů. „Hraběcí milosti, tady to jistě není.“
 
@@ -82,11 +82,11 @@ Komorná vyndala celou náruč šatů. „Hraběcí milosti, tady to jistě nen�
 
 „Oui, Madame.“
 
-„Vous n’attendez pas, peut-ętre, que je m’excuse?“[\[8\]](./resources/undefined)
+„Vous n’attendez pas, peut-ętre, que je m’excuse?“[^8]
 
 „Non, non, Madame!“ zvolala dívka.
 
-„Alors il n’y a pas pourquoi me barrer le passage,“[\[9\]](./resources/undefined) zahrčela hraběnka svými hrdelními r.
+„Alors il n’y a pas pourquoi me barrer le passage,“[^9] zahrčela hraběnka svými hrdelními r.
 
 „Ah pardon, Madame la comtesse,“ zašeptala Olga okamžitě ustupujíc. Hraběnka a komorná vyšly; zůstaly jen šatečky rozházené po stole a na posteli.
 
@@ -130,15 +130,15 @@ Věru nevěděla, proč se vlastně rdí; na věci nebylo nic, zač se styděti,
 
 To bylo, na mou čest, vše, co se stalo mezi Olgou a panem Kennedym; a proto bylo Olze tak nevýslovně trapno, že se začervenala před jeho pohledem, a byla by se za to tloukla. Hnětla se nesmírně ve svém nedůtklivě panenském srdci. Tím lépe, řekla si, že odjedu; i kdyby pro nic jiného, tož pro toho člověka. Cítila se již znavena tím denním zápasem a ponížena svou malomocí; do hrdla stoupal jí příval nechuti a odporu takového, že by vykřikla. Sláva tobě, Bože, nutila se k lehkosti, že již odjedu; kdybych jen den ještě zůstala, udělala bych skandál nejhroznější.
 
-„Prenez des prunes, Mademoiselle.“[\[10\]](./resources/undefined)
+„Prenez des prunes, Mademoiselle.“[^10]
 
 „Pardon, Madame?“
 
 „Prenez des prunes.“
 
-„Merci, merci, Madame la comtesse.“[\[11\]](./resources/undefined)
+„Merci, merci, Madame la comtesse.“[^11]
 
-Odpoutala se od pana Kennedyho a padla na hezkou tvář Osvaldovu. Maličko potěšilo se její srdce přívětivou něhou. Nebylo jí tajno, že chlapec je do ní svým způsobem zamilován; nedovedl to arciť přiznati jinak než zbytečnou hrubostí a uhýbavýma očima. Zato Olga ho trápívala se zvláštní rozkoší; kladla mu ruku kolem jeho pěkné, jemné šíje a táhla ho s sebou parkem, nezřízeně se bavíc jeho mručivou a blaženou zuřivostí. Hleďte, teď právě, cítě její pohled, spolkl ohromné sousto a vztekle vykoukl. Ubohý Osvalde! Co z tebe bude tady, v tom strašném domě, ty dítě, jež právě se přelamuješ v mladíka, stonajíc současně přemírou útlosti i sveřeposti? Jak se probudí tvé srdce, jaké příklady uvidíš? Stesk rozladění dotkl se Olgy. Přednedávnem vešla do pokoje Osvaldova a přistihla ho, kterak se strká a boxuje s komornou Paulínou, nejhorší z děvčat. Ach, rozumí se, byla to dětská hra rvavého štěněte; ale neměl se Osvald zapálit, neměla Paulína mít oči a tváře tak roznícené, nemělo to zkrátka tak být, a vůbec, vůbec to nemělo být. Olga, plna podezření, se postavila od té chvíle do střehu; již nikdy se neprobírala citlivými prsty ve vlasech Osvaldových, nikdy mu nepoložila ruku kolem šíje a jala se ho hlídati zraky Argusovými[\[12\]](./resources/undefined), proniknuta nepokojem, snižujíc se až ke špehování, odhodlána nevydat dětství Osvaldova předčasným a hanebným zkušenostem. Často odběhla najednou od Mary, aby dohlédla za Osvaldem; byla na něho chladně přísná, čímž dosáhla jen toho, že jeho mladá láska se prolamovala odbojnou nenávistí. – A proč, ptala se nyní Olga sebe samé, ho vlastně hlídám? Co je mně, člověku cizímu, do toho, jakou lekci o životě mu dá Paulína či kterákoliv jiná? Proč mám se trápit nepokojem a vlastní přísností, která bolí mne víc než jeho? Sbohem, sbohem, Osvalde, neřeknu ti, že jsi mé drahé dítě, nepovím ti, jak jsem milovala tvou chlapeckou čistotu, líbeznější nad čistotu dívčí; nebudu tě již hlídat, otevři jen oči a náruč, abys chytil první příležitost, – nebudu tady, abych nad tebou zaplakala.
+Odpoutala se od pana Kennedyho a padla na hezkou tvář Osvaldovu. Maličko potěšilo se její srdce přívětivou něhou. Nebylo jí tajno, že chlapec je do ní svým způsobem zamilován; nedovedl to arciť přiznati jinak než zbytečnou hrubostí a uhýbavýma očima. Zato Olga ho trápívala se zvláštní rozkoší; kladla mu ruku kolem jeho pěkné, jemné šíje a táhla ho s sebou parkem, nezřízeně se bavíc jeho mručivou a blaženou zuřivostí. Hleďte, teď právě, cítě její pohled, spolkl ohromné sousto a vztekle vykoukl. Ubohý Osvalde! Co z tebe bude tady, v tom strašném domě, ty dítě, jež právě se přelamuješ v mladíka, stonajíc současně přemírou útlosti i sveřeposti? Jak se probudí tvé srdce, jaké příklady uvidíš? Stesk rozladění dotkl se Olgy. Přednedávnem vešla do pokoje Osvaldova a přistihla ho, kterak se strká a boxuje s komornou Paulínou, nejhorší z děvčat. Ach, rozumí se, byla to dětská hra rvavého štěněte; ale neměl se Osvald zapálit, neměla Paulína mít oči a tváře tak roznícené, nemělo to zkrátka tak být, a vůbec, vůbec to nemělo být. Olga, plna podezření, se postavila od té chvíle do střehu; již nikdy se neprobírala citlivými prsty ve vlasech Osvaldových, nikdy mu nepoložila ruku kolem šíje a jala se ho hlídati zraky Argusovými[^12], proniknuta nepokojem, snižujíc se až ke špehování, odhodlána nevydat dětství Osvaldova předčasným a hanebným zkušenostem. Často odběhla najednou od Mary, aby dohlédla za Osvaldem; byla na něho chladně přísná, čímž dosáhla jen toho, že jeho mladá láska se prolamovala odbojnou nenávistí. – A proč, ptala se nyní Olga sebe samé, ho vlastně hlídám? Co je mně, člověku cizímu, do toho, jakou lekci o životě mu dá Paulína či kterákoliv jiná? Proč mám se trápit nepokojem a vlastní přísností, která bolí mne víc než jeho? Sbohem, sbohem, Osvalde, neřeknu ti, že jsi mé drahé dítě, nepovím ti, jak jsem milovala tvou chlapeckou čistotu, líbeznější nad čistotu dívčí; nebudu tě již hlídat, otevři jen oči a náruč, abys chytil první příležitost, – nebudu tady, abych nad tebou zaplakala.
 
 A vy, paní hraběnko, přešla náhle Olga k ráznému účtování, jste podezírala mne. Špehovala jste mne při mých hodinách s Osvaldem; dala jste mi najevo, že „je pro něho lépe, aby byl ve společnosti pana Kennedyho“. Snad je pro něho také lépe, aby byl ve společnosti Paulíny; Paulína je vaše důvěrnice. Když onehdy v noci šel Osvald tajně s Kennedym na vydru, přišla jste do mého pokoje, musila jsem vám otevřít; hledala jste chlapce i pod mojí pokrývkou na posteli. Dobrá, paní hraběnko, je to vaše dítě; ale Paulínu posíláte k jeho lůžku, aby ho budila, Paulínu, ženu přes třicet let a zkaženou jako ďábel. Prohlížíte mé skříně a očicháváte moje zásuvky; pak mne pozvete k sobě do kočáru, abych vás bavila. Nabízíte mi švestky, ach díky, Madame, jste tak laskavá! Pokládáte-li mne za lehkou a zlodějku, pošlete mne od stolu, abych jedla v čeledníku, nebo ještě raději v prádelně; budu tam polykat kus chleba se slzami vzteku a pokoření, ale aspoň, aspoň se nebudu muset usmívat!
 
@@ -177,7 +177,7 @@ Olga vstala jako bezduchá a tiskla si ruce ke spánkům. „Jen – hlava, pane
 
 „Jděte si hned lehnout, slečno, hned si jděte lehnout,“ křikl hrabě příkře a znepokojeně. Olga se mechanicky poklonila a pomalu odcházela.
 
-Hrabě tázavě se ohlédl na svou choť; ta pokrčila rameny a řekla ostře: „Oswald, gerade sitzen!“[\[13\]](./resources/undefined) Pan Kennedy kouřil a díval se do stropu. Bylo rozladěné ticho.
+Hrabě tázavě se ohlédl na svou choť; ta pokrčila rameny a řekla ostře: „Oswald, gerade sitzen!“[^13] Pan Kennedy kouřil a díval se do stropu. Bylo rozladěné ticho.
 
 Hraběnka šila svírajíc rty. Po chvíli zazvonila, objevila se Paulína. „Paulíno, kam šla slečna?“ ptala se půl ústy.
 
@@ -187,9 +187,9 @@ Hraběnka šila svírajíc rty. Po chvíli zazvonila, objevila se Paulína. „P
 
 Na písku nádvoří zašuměla kola kočáru, kočí vyvedl koně a zapínal řemení.
 
-„Papa, soll ich reiten?“[\[14\]](./resources/undefined) osmělil se Osvald.
+„Papa, soll ich reiten?“[^14] osmělil se Osvald.
 
-„Ja,“ kývl hrabě, hledě strnule nikam. Hraběnka vrhla na něho pohled zkoumavý a nepřátelský. „Wirst du mitfahren?“[\[15\]](./resources/undefined) ptala se.
+„Ja,“ kývl hrabě, hledě strnule nikam. Hraběnka vrhla na něho pohled zkoumavý a nepřátelský. „Wirst du mitfahren?“[^15] ptala se.
 
 „Nein,“ řekl nepřítomně.
 
@@ -201,7 +201,7 @@ Mister Kennedy odhodil cigaretu, jedním skokem byl koni v sedle a stiskl kolena
 
 Paulína seběhla, ruce v kapsách bílé zástěrky. „Hraběcí milosti,“ hlásila důvěrně, „slečna Olga si věší šaty do skříně a skládá prádlo do prádelníku.“ Hraběnka pokynula. „Jeď,“ křikla na kočího. Kočár se rozjel, starý hrabě pozdravil a zůstal sám.
 
-Sedl si na lavici pod arkádou, hůl mezi koleny, a zle, opuštěně výřil[\[16\]](./resources/undefined) do dvora. Seděl tak půl hodiny; konečně vstal a tvrdě dupaje ochrnutýma nohama šel do salonu. Usedl do lenošky nad partií šachu, kterou rozehrál včera s Olgou a jež zůstala nedokončena. Uvažoval o situaci, byl zřejmě v nevýhodě; Olga vysunula koně a hrozila útokem. Skloněn nad destičkou hleděl vytušit její plán; nalezl pěknou myšlenku, z níž mu kouká porážka, a pořádná. Tu tedy se zvedl, a vzpřímen, lomoze holí šel nahoru, do hostinského křídla. Před Olžiným pokojem se zastavil. Bylo tam ticho, přímo strašné ticho, nic se nehnulo. Konečně zaklepal: „Slečno Olgo, jak je vám?“
+Sedl si na lavici pod arkádou, hůl mezi koleny, a zle, opuštěně výřil[^16] do dvora. Seděl tak půl hodiny; konečně vstal a tvrdě dupaje ochrnutýma nohama šel do salonu. Usedl do lenošky nad partií šachu, kterou rozehrál včera s Olgou a jež zůstala nedokončena. Uvažoval o situaci, byl zřejmě v nevýhodě; Olga vysunula koně a hrozila útokem. Skloněn nad destičkou hleděl vytušit její plán; nalezl pěknou myšlenku, z níž mu kouká porážka, a pořádná. Tu tedy se zvedl, a vzpřímen, lomoze holí šel nahoru, do hostinského křídla. Před Olžiným pokojem se zastavil. Bylo tam ticho, přímo strašné ticho, nic se nehnulo. Konečně zaklepal: „Slečno Olgo, jak je vám?“
 
 Chvilku ticho. „Už líp, děkuji,“ ozvala se Olga stísněným hlasem. „Poroučíte něco, pane hrabě?“
 
@@ -209,7 +209,7 @@ Chvilku ticho. „Už líp, děkuji,“ ozvala se Olga stísněným hlasem. „P
 
 Zůstat maličko déle, byl by slyšel slabé zasténání, zahajující nekonečný tichý pláč.
 
-Dlouhé, předlouhé jsou hodiny osamoceného. Konečně navrací se kočár, uhřáté koně provádějí po dvoře, z kuchyně řinčí chvat jako vždy, jako každého dne. O půl osmé zvoní gong k večeři. Všichni se sejdou, ale Olga schází. Chvíli všichni dělají, jako by toho nepozorovali, až posléze starý hrabě zvedne obočí a ptá se udiven: „Was, die Olga kommt nicht?“[\[17\]](./resources/undefined)
+Dlouhé, předlouhé jsou hodiny osamoceného. Konečně navrací se kočár, uhřáté koně provádějí po dvoře, z kuchyně řinčí chvat jako vždy, jako každého dne. O půl osmé zvoní gong k večeři. Všichni se sejdou, ale Olga schází. Chvíli všichni dělají, jako by toho nepozorovali, až posléze starý hrabě zvedne obočí a ptá se udiven: „Was, die Olga kommt nicht?“[^17]
 
 Hraběnka střelí po něm očima a mlčí. Teprve po hezky dlouhé chvíli zavolá Paulínu: „Zeptej se slečny Olgy, co chce jíst.“
 
