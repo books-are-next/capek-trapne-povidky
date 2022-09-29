@@ -97,7 +97,7 @@ Karel vstal a zasmál se. „Tak už dost,“ řekl a jal se přecházet po poko
 
 „Karle,“ řekl Vojta chraptivě.
 
-„Počkej, nemluv,“ bránil se Karel. „To není jen tohle. To je dokonce jen vedlejší věc, na ženské jsem zpočátku ani nemyslel. Ale řekni, Vojto, řekni, může-li se člověk vrátit mezi ty polštáře a lambrekýny[\[19\]](./resources/undefined), když viděl takovou bídu. Vždyť to, Vojto, u nás znáš; dusil bych se v tom, hanbou i hnusem. Tomu přec má žena nemůže rozumět. Já vím, že je hodná; mlč, prosím tě, aspoň o tom. S tím jsem vůbec začínat nechtěl; to je jen příklad, a stalo se to až po tom.“
+„Počkej, nemluv,“ bránil se Karel. „To není jen tohle. To je dokonce jen vedlejší věc, na ženské jsem zpočátku ani nemyslel. Ale řekni, Vojto, řekni, může-li se člověk vrátit mezi ty polštáře a lambrekýny[^19], když viděl takovou bídu. Vždyť to, Vojto, u nás znáš; dusil bych se v tom, hanbou i hnusem. Tomu přec má žena nemůže rozumět. Já vím, že je hodná; mlč, prosím tě, aspoň o tom. S tím jsem vůbec začínat nechtěl; to je jen příklad, a stalo se to až po tom.“
 
 „Po čem?“
 
