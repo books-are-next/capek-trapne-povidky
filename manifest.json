@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-trapne-povidky-abda8f2",
-  "revision": "abda8f2",
+  "identifier": "capek-trapne-povidky-21ba912",
+  "revision": "21ba912",
   "readingOrder": [
     "promo.html",
     "trapne_povidky_005.html",
@@ -28,8 +28,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:19:38 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664486378898
+    "date": "Sat Oct 01 2022 15:48:21 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639301951
   },
   "documents": [
     {
@@ -127,9 +127,9 @@
     {
       "title": "Na zámku",
       "file": "trapne_povidky_009.html",
-      "words": 5667,
-      "chars": 33826,
-      "ideas": 113,
+      "words": 5814,
+      "chars": 34509,
+      "ideas": 130,
       "role": "chapter",
       "order": 5,
       "prev": "trapne_povidky_008.html",
@@ -167,9 +167,9 @@
     {
       "title": "Surovec",
       "file": "trapne_povidky_011.html",
-      "words": 4334,
-      "chars": 25626,
-      "ideas": 112,
+      "words": 4342,
+      "chars": 25670,
+      "ideas": 113,
       "role": "chapter",
       "order": 7,
       "prev": "trapne_povidky_010.html",
@@ -207,9 +207,9 @@
     {
       "title": "Uražený",
       "file": "trapne_povidky_013.html",
-      "words": 3886,
-      "chars": 22157,
-      "ideas": 95,
+      "words": 3895,
+      "chars": 22216,
+      "ideas": 96,
       "role": "chapter",
       "order": 9,
       "prev": "trapne_povidky_012.html",
@@ -307,9 +307,9 @@
     {
       "title": "Poznámky pod čarou",
       "file": "trapne_povidky_018.html",
-      "words": 167,
-      "chars": 911,
-      "ideas": 20,
+      "words": 331,
+      "chars": 1699,
+      "ideas": 39,
       "role": "chapter",
       "order": 14,
       "prev": "trapne_povidky_017.html",
@@ -327,9 +327,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 133,
-      "chars": 903,
-      "ideas": 17,
+      "words": 120,
+      "chars": 823,
+      "ideas": 15,
       "role": "about",
       "order": null,
       "prev": "trapne_povidky_018.html",
@@ -347,14 +347,14 @@
   ],
   "totals": {
     "all": {
-      "words": 29748,
-      "chars": 175154,
-      "ideas": 789
+      "words": 30063,
+      "chars": 176648,
+      "ideas": 825
     },
     "chapters": {
-      "words": 29610,
-      "chars": 174223,
-      "ideas": 769
+      "words": 29938,
+      "chars": 175797,
+      "ideas": 807
     }
   }
 }
