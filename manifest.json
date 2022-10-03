@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-trapne-povidky-21ba912",
-  "revision": "21ba912",
+  "identifier": "capek-trapne-povidky-96880e2",
+  "revision": "96880e2",
   "readingOrder": [
     "promo.html",
     "trapne_povidky_005.html",
@@ -28,8 +28,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:48:21 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639301951
+    "date": "Mon Oct 03 2022 15:16:03 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664810163454
   },
   "documents": [
     {
@@ -107,9 +107,9 @@
     {
       "title": "Helena",
       "file": "trapne_povidky_008.html",
-      "words": 3294,
-      "chars": 19294,
-      "ideas": 54,
+      "words": 3291,
+      "chars": 19289,
+      "ideas": 53,
       "role": "chapter",
       "order": 4,
       "prev": "trapne_povidky_007.html",
@@ -347,14 +347,14 @@
   ],
   "totals": {
     "all": {
-      "words": 30063,
-      "chars": 176648,
-      "ideas": 825
+      "words": 30060,
+      "chars": 176643,
+      "ideas": 824
     },
     "chapters": {
-      "words": 29938,
-      "chars": 175797,
-      "ideas": 807
+      "words": 29935,
+      "chars": 175792,
+      "ideas": 806
     }
   }
 }

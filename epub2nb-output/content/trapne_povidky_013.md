@@ -145,21 +145,21 @@ Polozamčenýma očima se díval na bratra. Je skloněn nad stolem, jako by stud
 
 Když se Vojtěch probudil, byl bílý den; užasl, že leží v posteli polooblečen, rozpomněl se trochu a hledal Karla. Karel ležel na pohovce a spal; měl tváře povadlé, až k bolesti unavené, a vypadal stár. Tu Vojtěch tichounce, aby ho neprobudil, hledal, co to včera psal. Našel dopis v zavřené obálce, i roztrhl obálku a četl:
 
-Pane ministře,
+_Pane ministře,_
 
-pro chorobu vzdávám se svého úřadu a žádám o propuštění bez penze.
+_pro chorobu vzdávám se svého úřadu a žádám o propuštění bez penze._
 
-N. N., bývalý rada
+_N. N., bývalý rada_
 
 Vojtěch zavrtěl hlavou a hledal dále. V koši na papír bylo několik zmačkaných a přeškrtaných a roztrhaných archů, i rozbalil je a četl:
 
-Vážený pane!
+_Vážený pane!_
 
-Srovnejte, prosím, akt, který mně byl včera odňat, s přílohou B3 ve svazku M-XXIII s diktátem ministra tamtéž a s kopií dopisu ze 17. IX. tamtéž, aby se zjistilo, že chybné rozhodnutí se nestalo mou vinou, nýbrž že jsem dostal špatný materiál z protokolu. Nahlédnete sám přes své mládí, že ministr mne neprávem
+_Srovnejte, prosím, akt, který mně byl včera odňat, s přílohou B3 ve svazku M-XXIII s diktátem ministra tamtéž a s kopií dopisu ze 17. IX. tamtéž, aby se zjistilo, že chybné rozhodnutí se nestalo mou vinou, nýbrž že jsem dostal špatný materiál z protokolu. Nahlédnete sám přes své mládí, že ministr mne neprávem_
 
 Zde byl dopis přetržen s patrnou zuřivostí a zmačkán. Další arch měl podle všeho nésti začátek nějakého pojednání; stálo tam pouze:
 
-Chceš-li se státi filozofem, musíš
+_Chceš-li se státi filozofem, musíš_
 
 I tento arch byl zmačkán a roztržen, snad po dlouhém bdění.
 
