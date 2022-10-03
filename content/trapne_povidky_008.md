@@ -15,7 +15,7 @@ Záhy bylo Heleně podstoupiti zkoušku nemalou. Přijela do lázní mladá pan�
 
 Následovaly nerušené dny, kdy spolu putovali v radosti ničím nezkalené. Bůh rozestřel po jejich cestách objevy a dobrodružství; tu našli ptáčata v hnízdě nebo vyplašili zajíce; tu seděli za žárného odpoledne ve venkovském kuželníku, vážně mlčíce, prostřed slepic a kuřat; tu je přepadl liják v polích a vrhl je, šťastné, do hlídačovy budky; duha vybudovala před nimi kouzelnou bránu vítězství, srní rodina pásla se na jitřní pasece, v mlází znali místo, kde rostl rekordní hřib, nikým jiným nenalezený. Jinde pochovali mrtvolku stehlíkovu, nalezli encián a líbezné cyklamínky, objevili babičku, k níž chodili na mléko a která říkala potěšené Heleně „mladá paní“; a tak bylo bezpočtu dobrodružství a příhod, jež společně zažili a za něž si byli jaksi vzájemně vděčni. Helena přijala za své všechny jeho chlapecké záliby, oživena dvojí radostí: radostí z nové věci a radostí ze společného zájmu. Shodli se dokonale ve všem, co jeho těšilo. Říkala „naše cyklamíny“, ale byl to on, který je nalezl; vše bylo jeho dílem, všechno prošlo nejprve jeho očima a plynulo z jeho bohatství; ubohá Heleno, kdeže je tvůj podíl v tomto společném světě? Ach, neví to Helena, ale usmívá se s očima sklopenýma; její dílo je tato shoda, její zásluha je veliká, její srdce je čisté a pokorné; vězte, že on vše objevil, ale ona z toho učinila radost společnou a plnou souzvuku. Tož sbohem pro dnes, Heleno, a zítra zase někam půjdeme; děkuji vám, že to dnes bylo tak krásné.
 
-\* \* \*
+* * *
 
 Odejel, a Helena mu psávala; napoprvé se až lekl jejího drsného, neladného, příliš velikého písma; viděl, že v ní jsou prudkosti dosud nepoznané. Její sloh mu připadal strojený, její veselí vynucené, a nemohl pochopit, proč má nyní čísti o enciánech, jež odkvetly, nebo o nálezu psí kostry v „našem“ lomu. Nevěděl, co má na to odpovídat. Je až ku podivu, jak málo zbývá z nejkrásnější shody, nejsou-li lidé spolu.
 
@@ -31,11 +31,11 @@ Ukazoval prstem: Helena zvedla sklopené oči, ale ne za jeho prstem; zářivě 
 
 Pustil dopis jako udeřen; to náhlé „Ty“, toto „nejdražší“, zbláznilo se to děvče? Musel přecházet po pokoji, aby to spolknul; měl pocit hanby a ponížení, chtěl by se rovnou propadnout. Co ještě?
 
-Ještě dnes musím poděkovati Tobě drahý, nejdražší můj za nejkrásnější den mého života. Dal jsi mi vše, dal jsi mi lásku. Ještě včera žila jsem těžký sen to nebyl život. Dnes stojím u okna s rozepjatou náručí jsi to Ty jsi to Ty za kým ji rozpínám, nejdražší jsi to Ty? Vím jsem šílená snad v nejbližší chvíli budu litovat, co jsem Ti napsala. Hrozně spěchám říci vše než přijde ta chvíle lítosti, neboť chci raději litovat než neříci to. Líbám Tě líbám Tě drahý můj, neptej se mne po ničem neboť nevím co se se mnou děje! Ne to nebyl život, hrozný byl můj sen miláčku Díky díky jsem Tvá a nechci mít nic co není Tvé Ježíši nezlom mne abych mohla vše říci! Chtěla bych obejmout Tvé nohy, celým tělem se ponížit protože jsem tak Tvá že už nemohu jinak. Nes mne miláčku nemám vlády, hlavu dám na Tvé rameno a Ty mne líbáš ukrutný nevíš že mne ještě nikdo nelíbal? Ach kdybych byla s Tebou
+_Ještě dnes musím poděkovati Tobě drahý, nejdražší můj za nejkrásnější den mého života. Dal jsi mi vše, dal jsi mi lásku. Ještě včera žila jsem těžký sen to nebyl život. Dnes stojím u okna s rozepjatou náručí jsi to Ty jsi to Ty za kým ji rozpínám, nejdražší jsi to Ty? Vím jsem šílená snad v nejbližší chvíli budu litovat, co jsem Ti napsala. Hrozně spěchám říci vše než přijde ta chvíle lítosti, neboť chci raději litovat než neříci to. Líbám Tě líbám Tě drahý můj, neptej se mne po ničem neboť nevím co se se mnou děje! Ne to nebyl život, hrozný byl můj sen miláčku Díky díky jsem Tvá a nechci mít nic co není Tvé Ježíši nezlom mne abych mohla vše říci! Chtěla bych obejmout Tvé nohy, celým tělem se ponížit protože jsem tak Tvá že už nemohu jinak. Nes mne miláčku nemám vlády, hlavu dám na Tvé rameno a Ty mne líbáš ukrutný nevíš že mne ještě nikdo nelíbal? Ach kdybych byla s Tebou_
 
-Helena.
+_Helena._
 
-Drahý nejdražší, bojím se toho večera podej mi ruku, mysli na mne, je to má první noc!
+_Drahý nejdražší, bojím se toho večera podej mi ruku, mysli na mne, je to má první noc!_
 
 Četl v trapném úžasu, neúprosně vnímaje každou chybu interpunkce, každou zoufalou nesouvislost pomateného dopisu. Stále měl pocit, jako by se styděl. Co jsem to provedl, vzpomínal, čím jsem si tohle způsobil? Copak jsem se jí včera, proboha, vyznával z lásky? Co se s ní stalo? Jaký hysterický záchvat? Snad to patří vůbec na jinou adresu, napadlo ho, a běžel, aby znovu prozkoumal to bláznivé psaní. Běda, není pochyby: ten miláček jsem už já. Což jsem s ní kdy mluvil o lásce, cožpak jsem jí kdy něco lhal? Arciť, byla mně milá; ale jen proto, ano, právě proto, že to nemělo pranic s láskou… Bože, co se to stalo?
 
@@ -47,11 +47,11 @@ A opět na ni vzpomněl, vzpomněl si na ni v dobrém a viděl její čiré, lí
 
 Vrhl se ke stolu a začal psát:
 
-Heleno,
+_Heleno,_
 
-děkuji Ti za slova lásky; je mně jako člověku nehodnému. Dáváš mi více, než dovedu svým bídným srdcem oplatit. Jsem člověk opotřebovaný, dívenko, a svět mne neudělal tak dobrým, jak bys Ty zasloužila.
+_děkuji Ti za slova lásky; je mně jako člověku nehodnému. Dáváš mi více, než dovedu svým bídným srdcem oplatit. Jsem člověk opotřebovaný, dívenko, a svět mne neudělal tak dobrým, jak bys Ty zasloužila._
 
-A nyní, drahá Heleno, můžeme opět být moudří. Pronesla jste slovo, které se muselo říci; jste statečná a obdivuhodná. Bylo už nutno, abychom upřímně…
+_A nyní, drahá Heleno, můžeme opět být moudří. Pronesla jste slovo, které se muselo říci; jste statečná a obdivuhodná. Bylo už nutno, abychom upřímně…_
 
 Položil pero. Je nicméně jasno, že ji nemiluji; jak je možno, abych jí to neřekl? Čmáral si mechanicky po podložce slovo „nikdy“; vtom zazněl zvonek. Slyšel služku otevírat; někdo tiše mluvil a zaklepal na jeho dveře. Řekl „dále“, ale nikdo nevstupoval. Šel sám otevřít; o veřeje opírala se Helena, tisknouc obě veliké ruce k prsoum.
 

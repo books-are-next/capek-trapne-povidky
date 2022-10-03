@@ -175,13 +175,13 @@ Den nato seděl nad svými akty až do soumraku. Snažil se hladce a bezvědomě
 
 Den nato přišlo psaní od Tyldy.
 
-Milý Jiří,
+_Milý Jiří,_
 
-lituji, že jsme se rozešli v takovém nedorozumění. Kdybys věděl vše, vím, že bys četl jinak tento dopis. Jsme v zoufalém postavení. Kdyby se nám podařilo zaplatit teď padesát tisíc, byli bychom zachráněni, neb náš průmysl má budoucnost a do dvou let počne se vypláceti. Dali bychom ti všechny záruky pro budoucnost, kdybys nám teď půjčil peníze. Byl bys spolumajitelem závodu a bral bys podíl z výnosu, až se začne vypláceti. Přijď se podívat na náš závod, uvidíš sám, že má budoucnost. Poznáš také naše děti, jak jsou milé a hodné, pilně se učí, a nepřeneseš přes srdce, abys jim zničil celou budoucnost. Aspoň pro ty děti to udělej, neb je to naše krev, a Karel je už velký a chytrý a má velkou budoucnost. Odpusť, že tak píši, jsme celí rozčileni a věříme, že nás zachráníš a že budeš mít rád naše děti, neb máš dobré srdce. Přijď určitě. Až Tyldička vyroste, šla by ráda k strýčkovi za hospodyni, uvidíš, jak je milá. Nepomůžeš-li nám, můj muž to nepřežije a ty děti budou žebráci. Zdraví Tě, drahý Jiří, Tvá nešťastná sestra
+_lituji, že jsme se rozešli v takovém nedorozumění. Kdybys věděl vše, vím, že bys četl jinak tento dopis. Jsme v zoufalém postavení. Kdyby se nám podařilo zaplatit teď padesát tisíc, byli bychom zachráněni, neb náš průmysl má budoucnost a do dvou let počne se vypláceti. Dali bychom ti všechny záruky pro budoucnost, kdybys nám teď půjčil peníze. Byl bys spolumajitelem závodu a bral bys podíl z výnosu, až se začne vypláceti. Přijď se podívat na náš závod, uvidíš sám, že má budoucnost. Poznáš také naše děti, jak jsou milé a hodné, pilně se učí, a nepřeneseš přes srdce, abys jim zničil celou budoucnost. Aspoň pro ty děti to udělej, neb je to naše krev, a Karel je už velký a chytrý a má velkou budoucnost. Odpusť, že tak píši, jsme celí rozčileni a věříme, že nás zachráníš a že budeš mít rád naše děti, neb máš dobré srdce. Přijď určitě. Až Tyldička vyroste, šla by ráda k strýčkovi za hospodyni, uvidíš, jak je milá. Nepomůžeš-li nám, můj muž to nepřežije a ty děti budou žebráci. Zdraví Tě, drahý Jiří, Tvá nešťastná sestra_
 
-Tylda.
+_Tylda._
 
-P. S. Stran Růženy jsi říkal, že jsem lhala. Až přijede můj muž do Prahy, přinese Ti doklady. Růžena si nezasluhuje Tvé podpory a šlechetnosti, neb dělá nám hanbu. Může se raději vrátit k svému muži, on jí odpustí, a ona nemusí ujídat chleba nevinným dětem.
+_P. S. Stran Růženy jsi říkal, že jsem lhala. Až přijede můj muž do Prahy, přinese Ti doklady. Růžena si nezasluhuje Tvé podpory a šlechetnosti, neb dělá nám hanbu. Může se raději vrátit k svému muži, on jí odpustí, a ona nemusí ujídat chleba nevinným dětem._
 
 Jiří odhodil dopis. Bylo mu hořko a ošklivo. Z rozdělané práce na stole zavála na něj zoufalá prázdnota, těžká koule hnusu stoupala mu do hrdla; i nechal všeho a šel k Růženě. Byl již na schodech před jejími dveřmi, ale tu mávl rukou, sestoupil a coural sám po ulicích. Viděl zdálky mladou ženu v kožišinách, zavěšenou do důstojníka; rozběhl se za nimi jako žárlivec, ale Růžena to nebyla. Viděl jasné ženské oči, slyšel smích na růžových rtech; viděl ženy zářící, zvonící štěstím, důvěrné, plné radosti a krásy. Unaven vrátil se konečně domů. Na jeho pohovce ležela Růžena a plakala. Tyldin dopis válel se otevřen na zemi.
 

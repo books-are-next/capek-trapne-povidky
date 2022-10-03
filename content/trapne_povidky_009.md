@@ -158,18 +158,18 @@ Rodina se zvedla od svačiny a usedla v sousedním salonu; hrabě a Kennedy kou�
 
 Paulína s očima sklopenýma přinesla poštu na stříbrném podnosu. Hrabě shrábl dopisy na klín; chtěl sebrat i poslední psaní ležící stranou, ale Paulína uctivě ucukla. „Pro slečnu,“ zašeptala. Ach, zdálky poznala Olga maminčino psaní, ubohou pomazanou obálku popsanou hrozným pravopisem, dopis, za který se vždy zastyděla, a který přece pak nosila na srdci. Začervenala se i dnes, – odpusť mi to, mami! Chvějícími se prsty vzala venkovské psaníčko, dojatě si přečetla adresu tak příliš důkladně napsanou, jako by svět byl zlý a nechtěl bez podrobného doporučení odevzdat dopis do pravých rukou tam daleko, mezi cizími lidmi, – a vtom jí spadl kámen ze srdce: Mami, jak jsi mi pomohla! Budu číst psaní, a najednou vykřiknu: že mi stůně tatínek, že nutně musím k němu, seberu se a ujedu, a nikdo mne nebude moci zdržovat; za týden pak napíšu, že musím zůstat doma, ať mi pošlou můj kufr za mnou. Tak je to nejlehčí, řekla si plna radosti. Jako každé ženě bylo jí patrně snazší pomoci si výmluvou než příčinami. Plna radosti roztrhávala obálku. Když vyňala psaní, bodlo ji prudce u srdce, zatajila dech a počala čísti:
 
-Milá dceruško,
+_Milá dceruško,_
 
-musím ti napsat smutnou zprávu že Tatinek se nám rostonal doktor řek že to je srce a že je slabej a nohy má spuchlý už chodit nemože Doktor řek že Ho nic nemá rozčílovat řek Doktor nesmíš si nařikat až nám budeš psát Tatinek se tim trápí a žhere to nedělej a piš že se máš dobře abi aspoň moch bejt bezstarosti Viš jak tě má rád a že seš na dobrým místě Zaplať PánBůh.
+_musím ti napsat smutnou zprávu že Tatinek se nám rostonal doktor řek že to je srce a že je slabej a nohy má spuchlý už chodit nemože Doktor řek že Ho nic nemá rozčílovat řek Doktor nesmíš si nařikat až nám budeš psát Tatinek se tim trápí a žhere to nedělej a piš že se máš dobře abi aspoň moch bejt bezstarosti Viš jak tě má rád a že seš na dobrým místě Zaplať PánBůh._
 
-Pomodli se za našeho Tatinka a nejezdi sem je to kraj Světa Peníze sme dostali děkujem Ti mockrát je nám moc Zle co Tatinek leži Frantik mu ukrad hodinky nesmíme mu to říct to by Ho zabilo řekli sme že se skazili že sou u hodinaře Porád se na ně ptá kdy už je spraví že ani neví kolik je hodin ani plakat před Nim nemožu.
+_Pomodli se za našeho Tatinka a nejezdi sem je to kraj Světa Peníze sme dostali děkujem Ti mockrát je nám moc Zle co Tatinek leži Frantik mu ukrad hodinky nesmíme mu to říct to by Ho zabilo řekli sme že se skazili že sou u hodinaře Porád se na ně ptá kdy už je spraví že ani neví kolik je hodin ani plakat před Nim nemožu._
 
-Milá ceruško musím ti napsat a bis děkovala Pánu Bohu že máš to krásný místo Modli se za Pány a sluš im věrně nad takový Místo neni jak se tam najíš to je pro tvý Zdravý seš slabá vprsou a něco nám pošleš každej měsíc ceruško děkujem ti za to Pán Bůh tě odmění za tvý Rodiče.
+_Milá ceruško musím ti napsat a bis děkovala Pánu Bohu že máš to krásný místo Modli se za Pány a sluš im věrně nad takový Místo neni jak se tam najíš to je pro tvý Zdravý seš slabá vprsou a něco nám pošleš každej měsíc ceruško děkujem ti za to Pán Bůh tě odmění za tvý Rodiče._
 
-Vaš si Pánu dyž im budeš sloužit mnoho let tak tě zaopatřej nadosmrti to máš jako Ouřad nedej na sebe dopustit Pozdravuj Pány odemně s Tatinkem to je špatný schází jako svíce.
+_Vaš si Pánu dyž im budeš sloužit mnoho let tak tě zaopatřej nadosmrti to máš jako Ouřad nedej na sebe dopustit Pozdravuj Pány odemně s Tatinkem to je špatný schází jako svíce._
 
-Zdravý tě Tvá Matka  
-Kostelec čís. 37.
+_Zdravý tě Tvá Matka  
+Kostelec čís. 37._
 
 Hrabě přestal číst své dopisy a vytřeštil oči na Olgu. „Slečno, vám není dobře,“ vykřikl se skutečným zděšením.
 
