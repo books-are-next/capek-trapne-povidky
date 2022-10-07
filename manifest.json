@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-trapne-povidky-0e82910",
-  "revision": "0e82910",
+  "identifier": "capek-trapne-povidky-87b9794",
+  "revision": "87b9794",
   "readingOrder": [
     "promo.html",
     "trapne_povidky_005.html",
@@ -28,8 +28,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:47:18 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664923638637
+    "date": "Fri Oct 07 2022 13:50:23 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665150623275
   },
   "documents": [
     {
