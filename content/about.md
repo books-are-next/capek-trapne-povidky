@@ -30,7 +30,7 @@ V MKP 2. opravené vydání
 [^18]: Komplicita (z franc.) – srozumění. _Pozn. red._  
 [^19]: Lambrekýny (franc.) – obloukové záclonky, závěsy. _Pozn. red._  
 ISBN 978-80-7532-917-2 (webová kniha)  
-V MKP 1. elektronické vydání z 7. 10. 2022.
+V MKP 1. elektronické vydání z 10. 10. 2022.
 
 ***
 
